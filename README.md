@@ -8,6 +8,7 @@ run wso2am on docker
 
 ###steps:
 - clone the project: `https://github.com/abojaber/wso2am.git`
+- download wso2am-2.1.0.zip from https://github.com/wso2/product-apim/releases 
 - copy the downloaded file to wso2am/wso2am/
 - start your docker-machine & set the enviroment 
 - go to wso2am `cd wso2am` 
